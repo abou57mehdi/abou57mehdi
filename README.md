@@ -1,14 +1,13 @@
-# Welcome to El Mehdi Aboulouafa's GitHub Profile 🌟
-
+# Welcome to El Mehdi Aboulouafa's GitHub Profile 🫡
 ## 👋 About Me
 
-I’m **El Mehdi Aboulouafa**, a passionate software engineering student specializing in Information System Engineering at **ESI Morocco (2023–2026)**. With a strong academic foundation and a portfolio filled with professional experiences, academic and freelance projects, I aspire to make a positive impact through technology.
+I’m **El Mehdi Aboulouafa**, a passionate software engineering student specializing in Information System Engineering at **ESI Morocco (2023–2026)**. With a solid academic foundation and a portfolio bursting with professional experiences, academic projects, and contributions to open-source repositories, I’m aspiring to shape the world with technology.
 
 ## 🔍 Education
 
 - **2023–2026**: Diplôme d’Ingénieur, **ESI**, Morocco  
   _Field: Information System Engineering_
-- **2020–2023**: CPGE, **Lycée MPSI**, Morocco - Preparatory Classes  
+- **2020–2023**: CPGE, **Lycée MPSI**, Morocco - Preparatory School  
   _Field: Mathematics, Physics, and Information Science_
 
 ## 🌐 Languages
@@ -19,51 +18,74 @@ I’m **El Mehdi Aboulouafa**, a passionate software engineering student special
 
 ## 🚀 Technical Skills
 
-- **Programming**: Java, JavaScript, Python, PHP, C
-- **Frontend**: React, Angular, HTML, CSS, Tailwind CSS
-- **Backend**: Node.js, Express.js, Spring Boot, Django, Flask, Laravel
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
+- **Programming Languages**: Java, JavaScript, Python, PHP, C
+- **Frontend Development**: React, Angular, HTML5, CSS, Tailwind CSS
+- **Backend Development**: Node.js, Express.js, Spring Boot, Django, Flask, Laravel
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, GitHub Actions
 - **Databases**: PostgreSQL, MongoDB, MySQL, Redis
-- **APIs**: REST APIs, WebSocket Development
-
-## 💻 GitHub Stats
-![El Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abou57mehdi&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abou57mehdi&layout=compact&theme=default&langs_count=6)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abou57mehdi&theme=default)
+- **API Development**: REST APIs, WebSockets
 
 ## 💼 Professional Experience
 
 - **2025**: Full-Stack Developer, *Sinone*, Rabat  
-  _Developed real-time educational communication systems with Laravel and Flutter, including notifications, chat interfaces, and tools for data optimization._
+  _Worked on educational communication systems with real-time notifications, chat, and role-based interfaces using Flutter and Laravel. Built analytical tools to optimize performance._
 - **2024**: Internship, *Green Energy Park*, Benguerir  
-  _Built a Django application integrating Machine Learning models for energy prediction, and developed front-end interfaces for real-time visualization with Bootstrap and Plotly._
+  _Developed an application with Django and Machine Learning models for energy prediction. Created real-time visualizations and interfaces using Bootstrap and Plotly to encourage eco-friendly energy practices._
 
 ## 🛠️ Notable Projects
 
 ### 📌 Featured Projects
 
-#### CollabFlow
+#### 1. ⚙️ CollabFlow
    - **Description**: A microservices-based platform.
    - **Tech Stack**: Spring Boot, Angular, FastAPI
-   - **Features**: JWT authentication, PostgreSQL, Redis, RabbitMQ, GitHub Actions integration.
+   - **Features**: JWT authentication, PostgreSQL, Redis, RabbitMQ, WebSocket communication, and GitHub Actions CI/CD pipeline.
 
-#### CareerBooster
-   - **Description**: AI-driven CV analysis app integrating OpenRouter AI.
-   - **Tech Stack**: Spring Boot, React Native, JWT, REST APIs, PostgreSQL.
+#### 2. 📈 CareerBooster
+   - **Description**: AI-driven CV analysis app integrating OpenRouter AI for personalized feedback and career paths.
+   - **Tech Stack**: Spring Boot, React Native, JWT, REST APIs, PostgreSQL, Swagger.
 
-#### Billun Atelier (Freelance)
-   - **Description**: Workshop management tool built for Transport Dubois.
-   - **Tech Stack**: MERN Stack, with real-time dashboards enabled by MongoDB and Node.js.
+#### 3. 🔧 Billun Atelier (Freelance Project)
+   - **Description**: Workshop management system for *Transport Dubois*. Enabling intervention and vehicle maintenance tracking along with inventory management.
+   - **Tech Stack**: MERN Stack, Real-time dashboard with MongoDB and Node.js.
+
+### 📂 Repository Highlights
+
+#### LARAVELfarmAPP
+- A Laravel-based application leveraging **PHP** (65.6%) and **Blade** (33.8%).
+
+#### Blog_Spring
+- A blog application built using **Java** (46.2%) and **HTML** (42.7%) with a touch of **TeX** and **Docker** for scalability.
+
+#### flutter_studentchatt
+- A cross-platform chat application written mostly in **Dart** (95.4%).
+
+#### backend_atelier
+- JavaScript-powered backend system for workshop management (**100% JavaScript**).
+
+#### studentchatt-
+- A system merging **Dart** (46.6%) and **PHP** (49.9%) for a role-based student communication tool.
+
+#### KUBDockerProject
+- Docker and Kubernetes deployment pipeline project showcasing **JavaScript** (81.5%) and **Dockerfile scripting** (18.5%).
+
+#### frontend
+- Frontend components for various projects written in **JavaScript** (70.3%), **HTML** (22.1%), and **CSS** (7.6%).
 
 ## 🏅 Certifications
 
 - **IBM Full Stack Developer Professional Certificate (2024)**  
+  Topics: React, Node.js, Django, Docker, Kubernetes, and Microservices.
+
 - **IBM DevOps and Software Engineering Professional Certificate (2024)**  
-- **Google Professional Certificates in Data Analytics and Project Management (2024)**
+  Topics: DevOps methodologies, Agile development, CI/CD practices.
+
+- **Google Professional Certificates (2024)**  
+  _Data Analytics (8 courses) & Project Management (1 course)._  
 
 ## 📞 Contact Information
 
 - **Phone**: +212 650 705 701  
 - **Email**: mehdi_aboulouafa@proton.me  
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/aboulouafa-el-mehdi-076a19286/)  
-- **Portfolio**: [My Portfolio](https://abou57mehdi.github.io/portfoliov1/)
+- **LinkedIn**: [aboulouafa-el-mehdi](https://www.linkedin.com/in/aboulouafa-el-mehdi-076a19286/)  
+- **Portfolio**: [Online Portfolio](https://abou57mehdi.github.io/portfoliov1/)
