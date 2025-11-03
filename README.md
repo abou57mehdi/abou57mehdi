@@ -1,117 +1,92 @@
-```md
-# Hi there 👋 I'm El Mehdi Aboulouafa (abou57mehdi)
+# Welcome to El Mehdi Aboulouafa's GitHub Profile 🌟 🚀
 
-Full-stack & mobile engineer — building student tools, backend services, and cloud-native deployments. Currently engineering scalable web and mobile systems using Spring Boot, Flutter, Node.js and Laravel.
+## 👋 About Me
 
----
+I’m **El Mehdi Aboulouafa**, a passionate software engineering student specializing in Information System Engineering at **ESI Morocco (2023–2026)**. With a solid academic foundation and a portfolio bursting with professional experiences, academic projects, and contributions to open-source repositories, I’m aspiring to shape the world with technology.
 
-## About Me
-- 🔭 I’m currently building: CareerBooster (AI CV analysis) and improving student communication systems with real-time features.
-- 🌱 I’m learning and improving: Kubernetes production deployments, advanced CI/CD, and scalable microservices patterns.
-- 👯 I’m open to collaborating on: mobile apps (Flutter), Spring Boot microservices, and DevOps/tooling projects.
-- ⚡ Fun fact: I contribute across Dart/Flutter, Java, JavaScript and PHP ecosystems.
+## 🔍 Education
 
----
+- **2023–2026**: Diplôme d’Ingénieur, **ESI**, Morocco  
+  _Field: Information System Engineering_
+- **2020–2023**: CPGE, **Lycée MPSI**, Morocco - Preparatory School  
+  _Field: Mathematics, Physics, and Information Science_
 
-## Contact
-- Portfolio: https://abou57mehdi.github.io/portfoliov1/
-- GitHub: https://github.com/abou57mehdi
-- Email: mehdi_aboulouafa@proton.me
-- LinkedIn: https://www.linkedin.com/in/aboulouafa-el-mehdi-076a19286
-- Location: Benguerir, Morocco
-- Phone: +212 650 705 701
+## 🌐 Languages
 
----
+- **Arabic** (Native)
+- **French** (Advanced)
+- **English** (Advanced)
 
-## Education
-- 2023–2026 — Diplôme d’Ingénieur, ESI, Maroc — Ingénierie Systèmes d’Information
-- 2020–2023 — CPGE - MPSI, Filière MPSI, Maroc — Mathématiques, Physique, Sciences
+## 🚀 Technical Skills
 
----
+- **Programming Languages**: Java, JavaScript, Python, PHP, C
+- **Frontend Development**: React, Angular, HTML5, CSS, Tailwind CSS
+- **Backend Development**: Node.js, Express.js, Spring Boot, Django, Flask, Laravel
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, GitHub Actions
+- **Databases**: PostgreSQL, MongoDB, MySQL, Redis
+- **API Development**: REST APIs, WebSockets
 
-## Technical Skills
+## 💼 Professional Experience
 
-- Languages: Java, JavaScript, Python, PHP, C, Dart
-- Frontend: React, Angular, HTML5, CSS, Tailwind CSS
-- Mobile: Flutter, React Native
-- Backend: Spring Boot, Node.js, Express.js, Django, Flask, Laravel
-- Databases: PostgreSQL, MongoDB, MySQL, Redis
-- DevOps / CI: Docker, Kubernetes, Jenkins, GitHub Actions, Maven, Nexus
-- APIs & Real-time: REST APIs, WebSockets, RabbitMQ
-- Testing: JUnit, Spring Boot Test, automated pipelines
+- **2025**: Full-Stack Developer, *Sinone*, Rabat  
+  _Worked on educational communication systems with real-time notifications, chat, and role-based interfaces using Flutter and Laravel. Built analytical tools to optimize performance._
+- **2024**: Internship, *Green Energy Park*, Benguerir  
+  _Developed an application with Django and Machine Learning models for energy prediction. Created real-time visualizations and interfaces using Bootstrap and Plotly to encourage eco-friendly energy practices._
 
-Languages: Arabic (native), French (advanced), English (advanced)
+## 🛠️ Notable Projects
 
----
+### 📌 Featured Projects
 
-## Selected Professional Experience
+#### 1. ⚙️ CollabFlow
+   - **Description**: A microservices-based platform.
+   - **Tech Stack**: Spring Boot, Angular, FastAPI
+   - **Features**: JWT authentication, PostgreSQL, Redis, RabbitMQ, WebSocket communication, and GitHub Actions CI/CD pipeline.
 
-- Jul–Aug 2025 — Développeur Full-Stack, Sinone, Rabat  
-  Built an educational communication system with real-time notifications and chat; role-based interfaces. Technologies: Flutter, Laravel. Also developed data analysis tools to optimize engagement.
+#### 2. 📈 CareerBooster
+   - **Description**: AI-driven CV analysis app integrating OpenRouter AI for personalized feedback and career paths.
+   - **Tech Stack**: Spring Boot, React Native, JWT, REST APIs, PostgreSQL, Swagger.
 
-- Jul–Aug 2024 — Stagiaire PFA, Green Energy Park, Benguerir  
-  Developed a Django application with ML models for energy prediction. Built real-time visualizations with Plotly and Bootstrap for eco-energy education.
+#### 3. 🔧 Billun Atelier (Freelance Project)
+   - **Description**: Workshop management system for *Transport Dubois*. Enabling intervention and vehicle maintenance tracking along with inventory management.
+   - **Tech Stack**: MERN Stack, Real-time dashboard with MongoDB and Node.js.
 
----
+### 📂 Repository Highlights
 
-## Notable Projects
+#### LARAVELfarmAPP
+- A Laravel-based application leveraging **PHP** (65.6%) and **Blade** (33.8%).
 
-- CareerBooster (2025) — AI CV analysis & personalized career guidance  
-  - Stack: Spring Boot, React Native, PostgreSQL, OpenRouter AI, JWT, Swagger  
-  - Features: Intelligent CV feedback, personalized learning paths, REST APIs.
+#### Blog_Spring
+- A blog application built using **Java** (46.2%) and **HTML** (42.7%) with a touch of **TeX** and **Docker** for scalability.
 
-- CollabFlow (2024) — Microservices collaboration platform  
-  - Stack: Spring Boot microservices, Angular, FastAPI, PostgreSQL, RabbitMQ, Redis, Docker/Kubernetes, GitHub Actions  
-  - Features: Spring Security + JWT, API Gateway (Spring Cloud Gateway), WebSockets, Redis caching.
+#### flutter_studentchatt
+- A cross-platform chat application written mostly in **Dart** (95.4%).
 
-- Billun Atelier (2025) — Workshop management (Freelance)  
-  - Stack: MERN (MongoDB, Express, React, Node.js)  
-  - Features: Real-time dashboards, maintenance tracking, image-based anomaly analysis.
+#### backend_atelier
+- JavaScript-powered backend system for workshop management (**100% JavaScript**).
 
-- StudentChatt / flutter_studentchatt (2024–2025) — Student chat apps and backend  
-  - flutter_studentchatt — Flutter mobile client (Dart ≈95%)  
-    Repo: https://github.com/abou57mehdi/flutter_studentchatt
-  - studentchatt- — Full-stack project (PHP backend ~50%, Dart ~47%)  
-    Repo: https://github.com/abou57mehdi/studentchatt-
+#### studentchatt-
+- A system merging **Dart** (46.6%) and **PHP** (49.9%) for a role-based student communication tool.
 
-- backend_atelier — API backend for workshop systems (JavaScript)  
-  - Repo: https://github.com/abou57mehdi/backend_atelier
+#### KUBDockerProject
+- Docker and Kubernetes deployment pipeline project showcasing **JavaScript** (81.5%) and **Dockerfile scripting** (18.5%).
 
-- KUBDockerProject — Containerization / Kubernetes demos & tooling (JavaScript + Docker)  
-  - Repo: https://github.com/abou57mehdi/KUBDockerProject
+#### frontend
+- Frontend components for various projects written in **JavaScript** (70.3%), **HTML** (22.1%), and **CSS** (7.6%).
 
-- LARAVELfarmAPP — Laravel application (PHP / Blade)  
-  - Repo: https://github.com/abou57mehdi/LARAVELfarmAPP
+## 🏅 Certifications
 
-- frontend — Web frontend projects (JavaScript / HTML / CSS)  
-  - Repo: https://github.com/abou57mehdi/frontend
+- **IBM Full Stack Developer Professional Certificate (2024)**  
+  Topics: React, Node.js, Django, Docker, Kubernetes, and Microservices.
 
-- Blog_Spring — Java Spring blog project (Java ~46%, HTML ~43%)  
-  - Repo: https://github.com/abou57mehdi/Blog_Spring
+- **IBM DevOps and Software Engineering Professional Certificate (2024)**  
+  Topics: DevOps methodologies, Agile development, CI/CD practices.
 
----
+- **Google Professional Certificates (2024)**  
+  _Data Analytics (8 courses) & Project Management (1 course)._  
 
-## Repo Language Highlights
-Based on your public repositories' composition, your top languages and their roles:
-- Dart (Flutter) — Mobile apps, primary in flutter_studentchatt
-- JavaScript — Backend services and frontends (backend_atelier, frontend, KUBDockerProject)
-- PHP / Blade — Web backends (studentchatt-, LARAVELfarmAPP)
-- Java / Spring Boot — Microservices & backend apps (Blog_Spring, CollabFlow, CareerBooster)
-- DevOps-related files: Dockerfiles and Kubernetes manifests across repo KUBDockerProject and CI/CD pipelines
+## 📞 Contact Information
 
----
-
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abou57mehdi&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abou57mehdi&layout=compact&theme=default)
-
----
-
-## Certifications
-- 2024 — IBM Full Stack Developer Professional Certificate (React, Node.js, Django, Docker, Kubernetes, microservices)
-- 2024 — IBM DevOps and Software Engineering Professional Certificate (DevOps methodologies, Agile, CI/CD)
-- 2024 — Google Data Analytics & Project Management related certificates
-
----
-
-
+- **Phone**: +212 650 705 701  
+- **Email**: mehdi_aboulouafa@proton.me  
+- **LinkedIn**: [aboulouafa-el-mehdi](https://www.linkedin.com/in/aboulouafa-el-mehdi-076a19286/)  
+- **Portfolio**: [Online Portfolio](https://abou57mehdi.github.io/portfoliov1/)
