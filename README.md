@@ -26,6 +26,12 @@ I’m **El Mehdi Aboulouafa**, a passionate software engineering student special
 - **Databases**: PostgreSQL, MongoDB, MySQL, Redis
 - **API Development**: REST APIs, WebSockets
 
+## 💻 GitHub Stats
+
+![El Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abou57mehdi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abou57mehdi&layout=compact&theme=radical&langs_count=8)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abou57mehdi&theme=radical)
+
 ## 💼 Professional Experience
 
 - **2025**: Full-Stack Developer, *Sinone*, Rabat  
@@ -52,26 +58,17 @@ I’m **El Mehdi Aboulouafa**, a passionate software engineering student special
 
 ### 📂 Repository Highlights
 
-#### LARAVELfarmAPP
+### LARAVELfarmAPP
 - A Laravel-based application leveraging **PHP** (65.6%) and **Blade** (33.8%).
 
-#### Blog_Spring
+### Blog_Spring
 - A blog application built using **Java** (46.2%) and **HTML** (42.7%) with a touch of **TeX** and **Docker** for scalability.
 
 #### flutter_studentchatt
 - A cross-platform chat application written mostly in **Dart** (95.4%).
 
-#### backend_atelier
-- JavaScript-powered backend system for workshop management (**100% JavaScript**).
-
-#### studentchatt-
-- A system merging **Dart** (46.6%) and **PHP** (49.9%) for a role-based student communication tool.
-
 #### KUBDockerProject
 - Docker and Kubernetes deployment pipeline project showcasing **JavaScript** (81.5%) and **Dockerfile scripting** (18.5%).
-
-#### frontend
-- Frontend components for various projects written in **JavaScript** (70.3%), **HTML** (22.1%), and **CSS** (7.6%).
 
 ## 🏅 Certifications
 
